@@ -1,2 +1,2 @@
-# CTF
-CTFs write ups and scripts
+# picoCTF2018
+picoCTF2018s write ups and scripts
